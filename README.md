@@ -11,16 +11,6 @@ This is a simple notes application that I used to learn how to combine Django an
 ## Step-by-step instructions:
 1. Create virual environment and install requirements
 > ```
-<<<<<<< Updated upstream
-> $git clone https://github.com/addelogan/notes-app.git
-> $cd notes-app/backend
-> $python3 -m venv venv && source venv/bin/activate
-> $pip install -r requirements.txt
-> $cd server
-> python manage.py makemigrations
-> python manage.py migrate
-> $python manage.py runserver
-=======
 > git clone https://github.com/addelogan/notes-app.git
 > cd notes-app/backend
 > python3 -m venv venv && source venv/bin/activate
@@ -29,7 +19,6 @@ This is a simple notes application that I used to learn how to combine Django an
 > python manage.py makemigrations
 > python manage.py migrate
 > python manage.py runserver
->>>>>>> Stashed changes
 > ```
 2. Install node dependencies
 > ```
