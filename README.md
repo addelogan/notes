@@ -1,7 +1,7 @@
 # Notes Application
 
 This is a simple notes application that I used to learn how to combine Django and React in a single project. This is as bare bones as can be to provide simplicity for a developer to extend upon.
-## Features (already implemented or planned)
+## Features
 
 - Backend with Django Rest Framework
 - Frontend with React 
