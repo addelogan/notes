@@ -16,8 +16,8 @@ This is a simple notes application that I used to learn how to combine Django an
 > $python3 -m venv venv && source venv/bin/activate
 > $pip install -r requirements.txt
 > $cd server
-> $python manage.py makemigrations
-> $python manage.py migrate
+> python manage.py makemigrations
+> python manage.py migrate
 > $python manage.py runserver
 > ```
 2. Install node dependencies
