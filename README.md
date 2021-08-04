@@ -11,8 +11,8 @@ This is a simple notes application that I used to learn how to combine Django an
 ## Step-by-step instructions:
 1. Create virual environment and install requirements
 > ```
-> git clone https://github.com/addelogan/notes-app.git
-> cd notes-app/backend
+> git clone https://github.com/addelogan/notes.git
+> cd notes/backend
 > python3 -m venv venv && source venv/bin/activate
 > pip install -r requirements.txt
 > cd server
@@ -22,7 +22,7 @@ This is a simple notes application that I used to learn how to combine Django an
 > ```
 2. Install node dependencies
 > ```
-> cd notes-app/frontend
+> cd notes/frontend
 > npm i
 > npm start
 > ```
