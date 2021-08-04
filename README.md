@@ -6,11 +6,7 @@ This is a simple notes application that I used to learn how to combine Django an
 - Backend with Django Rest Framework
 - Frontend with React 
 - Bootstrap for styling
-- Deployment with docker-compose on single VPS
-- SSL certificate from Let's encrypt
 - Authentication with DRF `authtoken` and [Djoser](https://djoser.readthedocs.io/en/latest/)
-- python-decuple for secrets
-- Step-by-step instructions how to deploy and how to update application
 
 ## Step-by-step instructions:
 1. Create virual environment and install requirements
